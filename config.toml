@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://valuableknowledge.tk/"
 languageCode = "en-us"
-title = "Mysterious Unicorn's blog"
+title = "Mysterious Unicorn's Blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Mysterious Unicorn"
+    site_description = "The Awesome Blog of the Mysterious Unicorn!"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "The Awesome Blog of the Mysterious Unicorn!"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
