@@ -15,9 +15,9 @@ theme = "hugo-minimalist-theme"
     site_description = "The Awesome Blog of the Mysterious Unicorn!"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "The Awesome Blog of the Mysterious Unicorn!"
+    avatar = "img/unicorn-3637428.png"
+    header_background = "img/unicornnebula.jpg"
+    header_title = "Blog of the Mysterious Unicorn!"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
