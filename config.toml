@@ -1,4 +1,4 @@
-baseurl = "https://valuableknowledge.tk/"
+baseurl = "./"
 languageCode = "en-us"
 title = "Mysterious Unicorn's Blog"
 # Define how many pages appear per site
@@ -8,6 +8,9 @@ paginate = 10
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
+
+relativeURLs = true
+uglyURLs = true
 
 
 [params]
