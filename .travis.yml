@@ -1,4 +1,4 @@
-language: go
+language: generic
 install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.68.0/hugo_0.68.0_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
