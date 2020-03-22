@@ -1,4 +1,4 @@
-baseurl = "./"
+baseurl = "www.valuableknowledge.tk"
 languageCode = "en-us"
 title = "Mysterious Unicorn's Blog"
 # Define how many pages appear per site
@@ -9,8 +9,8 @@ paginate = 10
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
-relativeURLs = true
-uglyURLs = true
+# relativeURLs = true
+# uglyURLs = true
 
 
 [params]
