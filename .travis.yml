@@ -9,7 +9,7 @@ before_script:
 script:
 - aws configure set AWS_ACCESS_KEY_ID $ACCESS_KEY_ID
 - aws configure set AWS_SECRET_ACCESS_KEY $SECRET_ACCESS_KEY
-- aws s3 sync public/ s3://www.valuableknowledge.tk --acl public-read --delete --exclude 'videosforastr1/*'
+- aws s3 sync public/ s3://www.valuableknowledge.tk --acl public-read --delete --exclude 'videosforastr1/*' --exclude 'favicon.ico' --exclude 'apple-touch-icon.png' 
 - aws cloudfront create-invalidation --distribution-id E3I6YDZ6JUUPVO --paths '/*'
 branches:
     only:
