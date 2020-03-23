@@ -1,7 +1,7 @@
 # baseurl = "https://www.valuableknowledge.tk"
 baseurl = "/"
 relativeURLs = true
-title = "Mysterious Unicorn's Blog"
+title = "Valuable Knowledge Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "hugo-mainroad-theme"
@@ -9,13 +9,13 @@ theme = "hugo-mainroad-theme"
 # googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "Mysterious Unicorn's Blog"
-  bio = "The mysterious unicorn's true identity is unknown. Maybe she is a successful blogger or writer. Nobody knows it."
-  avatar = "img/unicorn-3637428.png"
+  name = "Valuable Knowledge"
+  bio = "The author is indeed make up of ordinary matter. Maybe he is a successful blogger or writer, but beyond that nobody knows."
+  avatar = "img/orionsmall.jpg"
 
 [Params]
-  subtitle = "Valuable Knowledge!" # Subtitle of your site
-  description = "Mysterious Unicorn's Personal Blog About Valuable Knowledge" # Description of your site
+  subtitle = "Science, Technology, and Personal Development" # Subtitle of your site
+  description = "This is a blog about science, technology, and personal development." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true

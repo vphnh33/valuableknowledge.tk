@@ -4,6 +4,6 @@ date: 2020-03-20T22:09:57-07:00
 ---
 ![unicorn](/img/unicornnebula1.jpg)
 
-Welcome to the blog of the mysterious unicorn! The unicorn is currently on its way to visit an earthlike exoplanet in the Milky Way galaxy. It will write about the journey soon. Come back for more!
+Welcome to Valuable Knowledge Blog! I am currently on my way to visit an earthlike exoplanet in the Milky Way galaxy. I will write about the journey soon. Come back for more!
 
-[Click here to find out more about the Mysterious Unicorn!](/about)
+[Click here to find out more about Valuable Knowledge Blog!](/about)
