@@ -7,5 +7,5 @@ before_script:
 script:
 - hugo
 branches:
- only
- - master
+    only:
+      - master
