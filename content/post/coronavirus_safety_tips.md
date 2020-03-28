@@ -3,7 +3,7 @@ title: "Coronavirus Safety Tips"
 date: 2020-03-28T10:17:30-07:00
 ---
 
-After an autopsy with patients who positive the COVID-19 virus, this is the expert s' observation:
+After an autopsy with patients who tested positive for the COVID-19 virus, this is the experts' observation:
 
 COVID-19 carries thick phlegm and this is what breaks the air passage in our breathing. This phlegm and easily dries, hardens and blows on airways (air tunnel) and capillaries (lungs) that cause patient breathing harder. They learned that to treat it, barred "airways" must be opened for medicine to enter, but it's not easy to do. Counting down the day before this happens.
 
@@ -19,7 +19,7 @@ Before reaching this situation, the following is their recommendation that we ca
 
 #5 Don't smoke.
 
-#6 Practice washing your hands every 20 seconds. Hand washing should also last 20 minutes using any foaming soap. It's better if antibacterial or disinfecting soap.
+#6 Practice washing your hands every 20 seconds. Hand washing should also last 20 seconds using any foaming soap. It's better if antibacterial or disinfecting soap.
 
 #7 Eat fruits and vegetables. Not just the level of Vit. C and good increase if not even Zinc in our body.
 
