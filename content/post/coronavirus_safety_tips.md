@@ -29,4 +29,4 @@ Before reaching this situation, the following is their recommendation that we ca
 
 #10 If a little bit feels bad in the throat like sore throat, or its initial symptoms (such as if it seems to gather or cough), fight it immediately through the above mentioned. Throat is the first virus attack and takes 3 to 4 days before it goes into the capillaries (lungs).
 
-Take care of yourself and pass this information on. Hope it helps everyone :-)!
+Take care of yourself and pass this information on. Hope it helps everyone :smiley:!
