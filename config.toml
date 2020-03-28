@@ -1,7 +1,7 @@
 # baseurl = "https://www.valuableknowledge.tk"
 baseurl = "/"
 relativeURLs = true
-title = "Valuable Knowledge Blog"
+title = "Valuable Knowledge"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "hugo-mainroad-theme"
@@ -10,7 +10,7 @@ theme = "hugo-mainroad-theme"
 
 [Author]
   name = "Valuable Knowledge"
-  bio = "The author is indeed make up of ordinary matter. Maybe he is a successful blogger or writer, but beyond that nobody knows."
+  bio = "The author is indeed make up of ordinary matter. Maybe he is also a successful blogger and a decent tennis player, but beyond that nobody knows!"
   avatar = "img/orionsmall.jpg"
 
 [Params]
