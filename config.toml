@@ -1,6 +1,9 @@
-baseurl = "https://www.valuableknowledge.tk"
+# baseurl = "https://www.valuableknowledge.tk"
+baseurl = "valuableknowledge.tk"
 # baseurl = "/"
+
 relativeURLs = true
+
 title = "Valuable Knowledge"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
