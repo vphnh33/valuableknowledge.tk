@@ -1,5 +1,4 @@
-# baseurl = "https://www.valuableknowledge.tk"
-baseurl = "valuableknowledge.tk"
+baseurl = "https://www.valuableknowledge.tk"
 # baseurl = "/"
 
 relativeURLs = true
