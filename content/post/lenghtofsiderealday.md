@@ -1,9 +1,7 @@
 ---
 title: "Lenght of Sidereal Day"
 date: 2020-03-30T09:08:41-07:00
-draft: true
 mathjax: true # Enable MathJax
-
 ---
 
 Sidereal day is the time taken by the Earth to rotate on its axis relative to the stars. Because star is so far away, this is equivalent to saying that it's the time for the Earth to rotate 360 degrees, and the solar day is the time that it takes the Sun to go from one noon to the next noon. 
@@ -54,4 +52,4 @@ Click on Share and Get shareable link. Copy this link and submit it to Canvas La
 Here is a tutorial on Google Colab if you need a review. Watch from 1:45 - 9;30 min:
 {{< youtube vVe648dJOdI >}}  
 
-After reading this article, [Click and view this Google Colab.](https://colab.research.google.com/drive/1InCuvTA6PJVjHr6PnH6XjO4vEhz0mTYS) Your Colab notebook should follow this sketch.
+After reading this article, [Click and view this Google Colab.](https://colab.research.google.com/drive/1InCuvTA6PJVjHr6PnH6XjO4vEhz0mTYS) Your Colab notebook should follow this sketch.  
