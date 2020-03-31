@@ -26,7 +26,7 @@ Read the instruction in the website. Move the protractor to the center of the st
 
 ![star trail](/img/lengthofsidereal2.jpg)
 
-Take 1 screenshot for proof of work. It should look like the picture above. Give your picture a name like sidereal.jpg and upload this image to your Google Drive in the "Colab Notebooks" folder.
+Take 1 screenshot for proof of work. It should look like the picture above. Give your picture a name like sidereal.jpg and upload this image to your Google Drive in the "Colab Notebooks" folder. 1 picture is good enough.
 
 Log into your Google Colab and Google Drive. Create a new notebook and rename to Lab06.iybnb. Save your notebook
 
@@ -42,6 +42,8 @@ Take the average of your three angle measurements. Remember measurements should 
 Insert your sidereal.jpg into Colab. Watch the video below for instruction:
 
 {{< youtube vlheEeZd6lY >}}
+
+___
 
 Finally answer this question: Through how arc minutes (') does the Moon move in one hour? The Moon completes one orbit (a circle) around the Earth in 27.3 days. Show your calcualtion.
 
