@@ -51,7 +51,7 @@ Click on Share and Get shareable link. Copy this link and submit it to Canvas La
 
 ![Google Colab](/img/colab04.jpg)
 
-Here is a tutorial on Google Colab if you need a review. Watch from 1:45 - 9;30 min:
+Here is a tutorial on Google Colab if you need a review. Watch from 1:45 - 9:30 min:
 {{< youtube vVe648dJOdI >}}  
 
 After reading this article, [Click and view this Google Colab.](https://colab.research.google.com/drive/1InCuvTA6PJVjHr6PnH6XjO4vEhz0mTYS) Your Colab notebook should follow this sketch.  
