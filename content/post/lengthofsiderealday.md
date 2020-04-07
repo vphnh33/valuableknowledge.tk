@@ -1,5 +1,5 @@
 ---
-title: "Lenght of Sidereal Day"
+title: "Length of Sidereal Day"
 date: 2020-03-30T09:08:41-07:00
 mathjax: true # Enable MathJax
 ---
