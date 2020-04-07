@@ -50,8 +50,8 @@ Rename this to Kepler (crater). Then resize and reposition it next to the arrow.
 
 ![canva signup page](/img/canva10.jpg)
 
-Next look at this Moon image below. Repeat the process so that on your Moon design, you should have 6 Mares (blue color) and 6
-Craters (gold color). 
+Next look at this Moon image below. Repeat the process so that on your Moon design, you should have 6 mares (blue color) and 6
+craters (gold color). 
 
 
 ![Moon Features - Mare and Crater ](/img/1200px-Moon_names.svg.png)
