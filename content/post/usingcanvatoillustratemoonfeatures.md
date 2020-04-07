@@ -61,7 +61,9 @@ Now we factually know that the Apollo astronauts did landed on the Moon! The pic
 
 ![Apollo Moon Landing Sites](/img/Apollo-moon-template-with_ST.jpg)
 
-So your Moon design should have 6 mares, 6 craters, 6 Apollo landing sites, 1 lowland, 1 highland. You can download your image here
+Create two more arrows. Use 1 arrow to identify a lowland and the other arrow pointing to a highland. (Google lunar lowland and highland to see example.) Your Moon design should have 20 named items: 6 mares, 6 craters, 6 Apollo landing sites, 1 lowland, 1 highland. 
+
+To download your image from Canva, click on Publish at the top left and click on Download:
 
 ![canva signup page](/img/canva11.jpg)
 
