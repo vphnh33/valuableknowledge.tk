@@ -1,5 +1,5 @@
 ---
-title: "Using Canva to Illustrate Moon Features"
+title: "Using Canva to Name Features of the Moon"
 date: 2020-04-06T14:51:41-07:00
 ---
 
@@ -75,7 +75,7 @@ For the final part of our lab answer this math question below. It's worth 2 poin
 How many minutes does it takes for the Moon to move this far? Remember the Moon orbital period, the time that it takes to go 360 degree,
 is 27.3 days.
 
-The process to submit is similar to the [Length of Sidereal Day lab](../lengthofsiderealday). Use Google Colab, but this time name the notebook as lab07.
+The process to submit is similar to the [Length of Sidereal Day](../length-of-sidereal-day) lab. Use Google Colab, but this time name the notebook as lab07.
 
 
 
