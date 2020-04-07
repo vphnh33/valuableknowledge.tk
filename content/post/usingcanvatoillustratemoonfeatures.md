@@ -65,7 +65,7 @@ So your Moon design should have 6 mares, 6 craters, 6 Apollo landing sites, 1 lo
 
 ![canva signup page](/img/canva11.jpg/)
 
-For the next part of our lab, create a greeting card with the title "Search Results Web Results Shoot for the Moon. Even If You Miss, You'll Land Among the Stars." Be creative and have fun with your design! If you choose a premium font or elements there will be
+For the next part of our lab, create a greeting card with the title "Shoot for the Moon. Even If You Miss, You'll Land Among the Stars." Be creative and have fun with your design! If you choose a premium font or elements there will be
 the Canva watermark on your greeting card. But for this class that should be OK>
 
 For the final part of our lab answer this math question below. It's worth 2 points: The angular diameter of the Moon is 0.5 degree. 
