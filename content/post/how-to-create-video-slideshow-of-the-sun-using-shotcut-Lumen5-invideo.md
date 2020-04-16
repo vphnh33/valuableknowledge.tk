@@ -80,7 +80,7 @@ You can add an audio or video track by
 
 ![Shotcut Panel](/img/shotcut04.jpg)
 
-Here is the entire view of my Shorcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the audio tutorial posted earlier.
+Here is the entire view of my Shorcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the audio tutorial posted earlier. You can download my Shotcut working project by clicking [here](https://www.valuableknowledge.tk/videosforastr1/sunfacts.7z). Unzip to view the files inside. Use this as a guide and template, but do not copy them. I would know!
 
 ![Shotcut Panel](/img/shotcut08.jpg)
 
