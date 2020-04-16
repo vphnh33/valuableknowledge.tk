@@ -3,13 +3,13 @@ title: "How to Create Video Slideshow of the Sun Using Shotcut Lumen5 Invideo"
 date: 2020-04-14T18:57:55-07:00
 ---
 
-In this week lab, you will be producing a video slideshow then upload it to Youtube. You then copy and paste the youtube link to your video and submit that to Canvas. The topic I chose is the Sun, but you can choose any astronomy topic of your interest. For example, you can choose to do a video slideshow about blackhole. The video length should be around 1:30 - 2 minutes. The video should have about 10 slides with 1 blackhole fact per slide. So the duration is about 10 seconds per slide. There should be transition between each slide. This will make it easier to watch because the scene does not jump abruptly from one to the next. 
+In this week lab, you will be producing a video slideshow then upload it to Youtube. You then copy and paste the youtube link to your video and submit that to Canvas. The topic I chose is the Sun, but you can choose any astronomy topic of your interest. For example, you can choose to do a video slideshow about blackhole. The video length should be around 1:30 - 2 minutes. The video should have 1 title page + 10 fact slides. An extra end credit is a good idea but optional. So the duration per slide averages about 10 seconds. There should be transition between each slide. This will make it easier to watch because the scene does not jump abruptly from one to the next. 
 
-For the video editing process, we can use (1) Shortcut, (2) Shorcut in combination with Lumen5, or your own preference. You can decide which workflow is best for you. Shorcut is an open source free video editor available for both Windows and macOS. Lumen5 is a online video editing platform. You need to subcribe to the Lumen5 free tier. With the free account they will give you 5 video projects to publish per month, which is good enough for our purpose. The Lumen5 video does not allow you to do your voice over and it will have Lumen5 credit attach to the end of the video. We can get around this by import Lumen5 video into Shotcut, add audio voice over, and cutoff the Lumen5 end credit. Using a combination of Lumen5 and Shotcut achieve very good result.
+For the video editing process, we can use (1) Shortcut, (2) Shorcut in combination with Lumen5, or (3) your own prefer app. You decide which workflow is best for you. Shorcut is an open source free video editor available for both Windows and macOS. Lumen5 is an online video editing platform. You need to subcribe to the Lumen5. They have a free tier that will give you 5 video projects to publish per month. This is good enough for our purpose. The Lumen5 video does not allow you to do your voice over and it will have Lumen5 credit attach to the end of the video. We can get around this by import Lumen5 video into Shotcut, add audio voice over, and cutoff the Lumen5 end credit. Using a combination of Lumen5 and Shotcut can produce good result.
 
 Below are two video slideshow examples I made. The first one is with Shotcut only. The second one I used Lumen5 to work on the visual presentation. Then I download it to my PC. Next I import that video into Shortcut to work on background music and voice over. 
 
-The Notice how I have a pretty good english accent in the videos :smiley:! I will show us how to use ai text-to-speech to generate the voice over. Of course you can also record your voice and do your own voice over. It's actually better that way and build up your confident too! You can submit your video slideshow without the voice over. However it won't get full credit to be fair to everyone.
+The Notice how I have a pretty good english accent in the videos :smiley:! I will show us how to use ai text-to-speech to generate the voice over. Of course you can also record your voice and do your own voice over. It's actually better that way to build up your confident! You can submit your video slideshow without the voice over. However it won't get full credit to be fair to everyone.
 
 {{< youtube jN3ifr3Kyys >}} 
 
@@ -20,9 +20,9 @@ ___
 
 ___
 
-Now let's take a look at how to do voice over. Obviously the most direct way to record our voice and import that into Shortcu. Another method is to use ai text-to-speech technology. For example, I want to generate a voice over for "The Sun Accounts for 99.86% of the Mass in the Solar System" fact. I do this by going to the IBM text-to-speech demo 
+Now let's take a look at how to do voice over. Obviously the most direct way is to record our voice and import that into Shortcut. Another method is to use ai text-to-speech technology. For example, I want to generate a voice over for "The Sun Accounts for 99.86% of the Mass in the Solar System" fact. I do this by going to the IBM text-to-speech demo 
 ([Click here to go to IBM text-to-speech](https://text-to-speech-demo.ng.bluemix.net/?_ga=2.149277174.1746788865.1577973300-883782623.1576869895&cm_mc_uid=15278110739115689857415&cm_mc_sid_50200000=20950731577973297095&cm_mc_sid_52640000=33641591577973297117))
-, and follow the procedure below:
+ and follow the procedure below:
 
 ![IBM text to speech demo](/img/ibm-text-to-speech-demo-03.jpg)
 
@@ -65,7 +65,7 @@ Watching the video below is optional. It is comprehensive but a bit longer.
 ___
 
 
-We begin by opening Shortcut and Go to File -> New to create a project in Shotcut by giving it a name. Then we drag the images, videos, audio mp3 into to the playlist and time line. Notice you can add images to your project. If you want the image to be 10 seconds long for example, then just drag the image into the timeline and extend it to 10 seocnds.
+We begin by opening Shortcut and go to File -> New to create a project in Shotcut by giving it a name. Then we drag the images, videos, audio mp3 into to the playlist and time line. Notice you can add images to your project. If you want the image slide to last 10 seconds for example, you just drag the image into the timeline and extend it to 10 seocnds.
 
 1. Drag to import files into Shotcut
 2. Drag and drop files into timeline to edit
@@ -80,7 +80,7 @@ You can add an audio or video track by
 
 ![Shotcut Panel](/img/shotcut04.jpg)
 
-Here is the entire view of my Shorcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the audio tutorial posted earlier. You can download my Shotcut working project by clicking [here](https://www.valuableknowledge.tk/videosforastr1/sunfacts.7z). Unzip to view the files inside. Use this as a guide and template, but do not copy them. I would know!
+Here is the entire view of my Shorcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the youtube audio tutorial posted earlier. You can download my Shotcut working project by clicking [here](https://www.valuableknowledge.tk/videosforastr1/sunfacts.7z). Unzip to view the files inside. Use this as a guide and template, but do not copy them. I would know!
 
 ![Shotcut Panel](/img/shotcut08.jpg)
 
@@ -88,7 +88,7 @@ To produce the video click on File, choose Export, then choose Youtube
 
 ![Shotcut Panel](/img/shotcut07.jpg)
 
-You can then go to the Jobs panel, right click and Show In Folder to view the finish video!
+To view the finished video, you can go to the Jobs panel, right click and Show In Folder:
 
 ![Shotcut Panel](/img/shotcut06.jpg)
 
@@ -98,7 +98,7 @@ Here is a short tutorial on Lumen5.
 
 ___
 
-Lumen5 is intuitive to use. Create a list of 1 title + 10 facts on your subject. Make sure to have space between each fact. Cut and Paste the text into Lumen5. It will automatically generate a sequence of video scences for you. It is not perfect, so you will need to edit the scense for better fit. Here is an example of my Lumen5 workflow:
+Lumen5 is intuitive to use. Create a text list of 1 title + 10 facts + 1 option end credit of your subject. Make sure to have space between each item of your list. Cut and Paste the text into Lumen5. It will automatically generate a sequence of video scences for you. It is not perfect, so you will need to edit the scense for better fit. Here is an example of my Lumen5 workflow:
 
 ![Lumen 5](/img/lumen502.jpg)
 
@@ -117,9 +117,9 @@ To upload a video to Youtube:
 
 ___
 
-As for the copyright aspect, here are the resources to find images, videos, and audio free to use:
+As for the copyright aspect, here are the resources to find images, videos, and audio free to use. I use Google image search often. There is an option under Tool in Google image search to filter image for noncommercial reuse:
 
-![Google](/img/googleimage01.jpg)
+![Google Image Search](/img/googleimage01.jpg)
 
 [Click here to go to Pixabay](https://pixabay.com)
 
@@ -129,7 +129,7 @@ As for the copyright aspect, here are the resources to find images, videos, and 
 
 [Youtube Copyright Free Musics](https://www.youtube.com/results?search_query=copyright+free+music)
 
-ytmp3.cc is a website can convert Youtube musics video to mp3. [Click here to go to ytmp3](https://ytmp3.cc/en13/). Be careful and click on the right link to download!
+ytmp3.cc is a website converts youtube musics video to mp3. [Click here to go to ytmp3](https://ytmp3.cc/en13/). Be careful and click on the right link to download!
 
 ![ytmp3](/img/ytmp3cc01.jpg)
 
