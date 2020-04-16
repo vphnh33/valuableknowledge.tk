@@ -5,9 +5,9 @@ date: 2020-04-14T18:57:55-07:00
 
 In this week lab, you will be producing a video slideshow then upload it to Youtube. You then copy and paste the youtube link to your video and submit that to Canvas. The topic I chose is the Sun, but you can choose any astronomy topic of your interest. For example, you can choose to do a video slideshow about blackhole. The video length should be around 1:30 - 2 minutes. The video should have 1 title page + 10 fact slides. An extra end credit is a good idea but optional. So the duration per slide averages about 10 seconds. There should be transition between each slide. This will make it easier to watch because the scene does not jump abruptly from one to the next. 
 
-For the video editing process, we can use (1) Shortcut, (2) Shorcut in combination with Lumen5, or (3) your own prefer app. You decide which workflow is best for you. Shorcut is an open source free video editor available for both Windows and macOS. Lumen5 is an online video editing platform. You need to subcribe to the Lumen5. They have a free tier that will give you 5 video projects to publish per month. This is good enough for our purpose. The Lumen5 video does not allow you to do your voice over and it will have Lumen5 credit attach to the end of the video. We can get around this by import Lumen5 video into Shotcut, add audio voice over, and cutoff the Lumen5 end credit. Using a combination of Lumen5 and Shotcut can produce good result.
+For the video editing process, we can use (1) Shotcut, (2) Shotcut in combination with Lumen5, or (3) your own prefer app. You decide which workflow is best for you. Shotcut is an open source free video editor available for both Windows and macOS. Lumen5 is an online video editing platform. You need to subcribe to the Lumen5. They have a free tier that will give you 5 video projects to publish per month. This is good enough for our purpose. The Lumen5 video does not allow you to do your voice over and it will have Lumen5 credit attach to the end of the video. We can get around this by import Lumen5 video into Shotcut, add audio voice over, and cutoff the Lumen5 end credit. Using a combination of Lumen5 and Shotcut can produce good result.
 
-Below are two video slideshow examples I made. The first one is with Shotcut only. The second one I used Lumen5 to work on the visual presentation. Then I download it to my PC. Next I import that video into Shortcut to work on background music and voice over. 
+Below are two video slideshow examples I made. The first one is with Shotcut only. The second one I used Lumen5 to work on the visual presentation. Then I download it to my PC. Next I import that video into Shotcut to work on background music and voice over. 
 
 The Notice how I have a pretty good english accent in the videos :smiley:! I will show us how to use ai text-to-speech to generate the voice over. Of course you can also record your voice and do your own voice over. It's actually better that way to build up your confident! You can submit your video slideshow without the voice over. However it won't get full credit to be fair to everyone.
 
@@ -20,7 +20,7 @@ ___
 
 ___
 
-Now let's take a look at how to do voice over. Obviously the most direct way is to record our voice and import that into Shortcut. Another method is to use ai text-to-speech technology. For example, I want to generate a voice over for "The Sun Accounts for 99.86% of the Mass in the Solar System" fact. I do this by going to the IBM text-to-speech demo 
+Now let's take a look at how to do voice over. Obviously the most direct way is to record our voice and import that into Shotcut. Another method is to use ai text-to-speech technology. For example, I want to generate a voice over for "The Sun Accounts for 99.86% of the Mass in the Solar System" fact. I do this by going to the IBM text-to-speech demo 
 ([Click here to go to IBM text-to-speech](https://text-to-speech-demo.ng.bluemix.net/?_ga=2.149277174.1746788865.1577973300-883782623.1576869895&cm_mc_uid=15278110739115689857415&cm_mc_sid_50200000=20950731577973297095&cm_mc_sid_52640000=33641591577973297117))
  and follow the procedure below:
 
@@ -31,28 +31,28 @@ Now let's take a look at how to do voice over. Obviously the most direct way is 
 3. Click on the "Speak" icon to generate the voice over
 4. Right click on the play bar and  click "Save audio as..." 
 
-Save your file in .mp3 format, for example I saved mine as scene1.mp3. In the SSML tab, < p > means paragraph. < s > means sentence. < prosody rate > means faster or slower. -7% means speak 7% slower than normal. < break time > means delay between words. Play around with the options to see which one you like best. After this you can upload these mp3 files to Shotcut to work on your video.
+Save your file in .mp3 format, for example I saved mine as scene1.mp3. In the SSML tab, < p > means paragraph. < s > means sentence. < prosody rate > means faster or slower. -7% means speak 7% slower than normal. < break time > means delay between words. Play around with the options to see which one you like best. After this you can bring these mp3 files to Shotcut to work on your video.
 
 As I mentioned earlier, Shotcut is open source and free to download for both Windows and MacOS. You can download and install Shotcut here:
 
-[Click here to download Shotcut](https://www.shotcut.org/download). Most of us now are either on Windows 64-bit or macOS.
+[Click here to download Shotcut](https://shotcut.org/download/). Most of us now are either on Windows 64-bit or macOS.
 
 ![Shotcut download page](/img/shotcut02.jpg)
 
-This video does a good job of showing us how to navigate and use Shorcut. Watch the first 7 minutes: 
+This video does a good job of showing us how to navigate and use Shotcut. Watch the first 7 minutes: 
 
  {{< youtube WyO8gpT8_l8 >}}
 
 ___
 
-This video shows us how to work with audio in Shorcut:
+This video shows us how to work with audio in Shotcut:
 
 {{< youtube fkctrL4b0Sk >}} 
 
 ___
 
 
-This video shows us how to add text in Shortcut:
+This video shows us how to add text in Shotcut:
 
 {{< youtube 2Xdj3QuSt48 >}} 
 
@@ -65,7 +65,7 @@ Watching the video below is optional. It is comprehensive but a bit longer.
 ___
 
 
-We begin by opening Shortcut and go to File -> New to create a project in Shotcut by giving it a name. Then we drag the images, videos, audio mp3 into to the playlist and time line. Notice you can add images to your project. If you want the image slide to last 10 seconds for example, you just drag the image into the timeline and extend it to 10 seocnds.
+We begin by opening Shotcut and go to File -> New to create a project in Shotcut by giving it a name. Then we drag the images, videos, audio mp3 into to the playlist and time line. Notice you can add images to your project. If you want the image slide to last 10 seconds for example, you just drag the image into the timeline and extend it to 10 seocnds.
 
 1. Drag to import files into Shotcut
 2. Drag and drop files into timeline to edit
@@ -80,7 +80,7 @@ You can add an audio or video track by
 
 ![Shotcut Panel](/img/shotcut04.jpg)
 
-Here is the entire view of my Shorcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the youtube audio tutorial posted earlier. You can download my Shotcut working project by clicking [here](https://www.valuableknowledge.tk/videosforastr1/sunfacts.7z). Unzip to view the files inside. Use this as a guide and template, but do not copy them. I would know!
+Here is the entire view of my Shotcut working panel that produced the first video in this article. It has one video track with transition effects, one voice over audio track, and one background music audio track. I lowered the volume in the background audio track following the youtube audio tutorial posted earlier. You can download my Shotcut working project by clicking [here](https://www.valuableknowledge.tk/videosforastr1/sunfacts.7z). Unzip to view the files inside. Use this as a guide and template, but do not copy them. I would know!
 
 ![Shotcut Panel](/img/shotcut08.jpg)
 
@@ -135,7 +135,7 @@ ytmp3.cc is a website converts youtube musics video to mp3. [Click here to go to
 
 ****************
 
-**Notice**: ignore this part below about InVideo. It looks promising, but when I tried to download the video it kept giving me errors. I will update this part when InVideo fixes this bug....
+**Note**: ignore this part below about InVideo. It looks promising, but when I tried to download the video it kept giving me errors. I will update this part when InVideo fixes this bug....
 
 InVideo is a cloud based video editing software that you can access it through the internet with your browser. Watch the tutorial below if you plan to use InVideo. They have a free plan that includes watermark in the video. It should be OK for our purpose, although I have trouble export and download the my video in InVideo. 
 
