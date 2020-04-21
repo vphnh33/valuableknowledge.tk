@@ -1,6 +1,6 @@
 ---
 title: "How to Load and Manipulate Astronauts CSV Data in Python Pandas"
-date: 2020-04-21T12:45:58-07:00
+date: 2020-04-20T12:45:58-07:00
 ---
 
 First watch these two videos of the Apollo 11 mission. It's awe inspiring. Also notice the gleam in Buzz Aldrin's eyes, humble but confident.
