@@ -135,7 +135,7 @@ ytmp3.cc is a website converts youtube musics video to mp3. [Click here to go to
 
 ****************
 
-**Note**: ignore this part below about InVideo. It looks promising, but when I tried to download the video it kept giving me errors. I will update this part when InVideo fixes this bug....
+**Note**: ignore this part below about InVideo. It looks promising, but when I tried to download the video, it kept giving me errors. I chat with a rep through its chatbot. They had to email me the link to the video. 
 
 InVideo is a cloud based video editing software that you can access it through the internet with your browser. Watch the tutorial below if you plan to use InVideo. They have a free plan that includes watermark in the video. It should be OK for our purpose, although I have trouble export and download the my video in InVideo. 
 
@@ -169,6 +169,11 @@ In InVideo
 3. You can drag the mp3 file back and forth to adjust where to start your voice over.
 
 ![InVideo add audio voice over to scene](/img/invideo06.jpg)
+
+Here is the finished video:
+
+{{< youtube W5ini0Xkc7E >}} 
+
 
 
 
