@@ -4,7 +4,7 @@ date: 2020-04-21T15:02:28-07:00
 
 ---
 
-First watch these two videos of the Apollo 11 mission. It's awe inspiring. Also notice the gleam in Buzz Aldrin's eyes, humble but confident.
+Watch the first video, the trailer to Apollo 11. (The second longer video is optional.) It's awe inspiring. Also notice the gleam in Buzz Aldrin's eyes, humble but confident.
 
 {{< youtube 3Co8Z8BQgWc >}}
 
@@ -13,7 +13,7 @@ ___
 
 {{< youtube NgUYurzK-tM >}}
 
-
+___
 
 Pandas stands for “Python Data Analysis Library ”. According to the Wikipedia page, pandas is a software library written for the python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. The name is derived from the term "panel data", an econometrics term for data sets that include observations over multiple time periods for the same individuals.
 
@@ -42,8 +42,12 @@ Once you load the data into your notebook with pandas you can sort and filter th
 For this lab: 
 1) Watch the 3 videos I posted in Canvas starting with "1 - Pandas Intro". 
 2) **Repeate all of the step** in the 3 videos except for the first step in the first cell. We just did that here. You can also skip the next two steps about using delimiter or typing df to get the whole thing. This is because these two steps are redundant.
-3) Answer the math question and a few other below in your notebook.
+3) What college did "John H. Glenn Jr. " go to? What is his home town? Use python pandas to filter and select "Name".
+4) According to this database, how many astronauts is "Retired"? Use python pandas to filter and count "Retired".
+5) Answer the math question (2 points) below. Include your calculation in your Colab notebook.
 4) Create a shareable link to your notebook. Make sure it is public, and submit that link to Canvas.
+
+Math question (2 points): If the Apollo 11 has a speed of 25,000 mph (miles per hour) how long does it take to get to the Moon. Give your answer in day and hour format. Show your calculation in your Colab notebook.
 
 ![Google Colab](/img/colab04.jpg)
 
@@ -51,4 +55,3 @@ Make sure to save your notebook regularly. Here is an example of the next two st
 
 ![Google Colab](/img/colab10.jpg)
 
-Math question (2 points): If the Apollo 11 has a speed of 25,000 mph (miles per hour) how long does it take to get to the Moon. Give your answer in day and hour format. Show your calculation in your Colab notebook.
