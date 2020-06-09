@@ -1,5 +1,5 @@
 ---
-title: "How to Start a Blog With Blogger or Wordress"
+title: "How to Start a Blog With Blogger or Wordpress"
 date: 2020-06-09T13:21:07-07:00
 ---
 
