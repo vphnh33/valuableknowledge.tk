@@ -1,7 +1,6 @@
 ---
 title: "How to Deal With Procrastination"
 date: 2020-10-13T17:05:16-07:00
-draft: true
 ---
 
 ![Lens Camera Focus](/img/panda-1892023_1280.png)
