@@ -7,7 +7,7 @@ Stress severe prolonged stress can actually kill neurons and literally cause dam
 
 Some stress warning signs include distractibility, loss of focus and concentration, irritability, tension in the body and muscles, avoidance and procrastination, exhaustion and fatigue, loss of self-confidence, decreased self-esteem, sadness, low mood and even depression. Stress can be a real issue for many students. So, what can we do about it?
 
-Step 1 get regular exercise. Even something as simple as taking a 20-minute walk can help. And university. I took karate two to three times a week and it really helped. Exercise has a huge impact on stress and mental well-being. 
+Step 1 get regular exercise. Even something as simple as taking a 20-minute walk can help. Excercise such as workout or tennis two to three times a week and it really helped. Exercise has a huge impact on stress and mental well-being. 
 
 Step 2 get some sleep. Make sure you're getting enough sleep and don't forget about cat naps in the afternoon. 
 
