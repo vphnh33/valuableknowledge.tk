@@ -11,7 +11,7 @@ Step 1 get regular exercise. Even something as simple as taking a 20-minute walk
 
 Step 2 get some sleep. Make sure you're getting enough sleep and don't forget about cat naps in the afternoon. 
 
-Step 3 watch your breathing. Don't forget to breathe when you're stressed out. You'll actually notice that your breathing becomes more frequent and your breaths become shallower when you notice this try to take longer deeper breaths. If you want to take things a bit further has a look at meditation.
+Step 3 watch your breathing. Don't forget to breathe when you're stressed out. You'll actually notice that your breathing becomes more frequent and your breaths become shallower when you notice this try to take longer deeper breaths. If you want to take things a bit further has a look at meditation or the 7-11 breathing technique.
 
 Step 4 check your perspective. It's usually never as bad as you think it is. I tended to think it was the end of the world if I did bad on a test or assignment. Well guess what it wasn't. Learn from your mistakes and keep moving forward.
 
