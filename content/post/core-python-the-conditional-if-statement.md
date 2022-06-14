@@ -16,12 +16,12 @@ Python relies on indentation. to define the scope of the if statement. Indentati
 
 
 
-The else if keyword. give us the option of testing for another condition. You can have many else if in a single if statement. The code execution will go into the else statement if none of the preceding conditions is true.
+The else if keyword. give us the option of testing for another condition. We can have many else if in a single if statement. The code execution will go into the else statement if none of the preceding conditions is true.
 
 
 
-You can see some examples of the if statement and the logical equal and greater than operators in [this colab notebook](https://colab.research.google.com/drive/1PDk1TqCOmH2GSW9FQnydGDrjwLx40veP#scrollTo=ee0Hc2FjjhlG). It'll check to see if a planet is Earth, Mars, or terrestrial planet, and print out the appropriate respond using the print() method.
+We can see some examples of the if statement and the logical equal and greater than operators in [this colab notebook](https://colab.research.google.com/drive/1PDk1TqCOmH2GSW9FQnydGDrjwLx40veP#scrollTo=ee0Hc2FjjhlG). It'll check to see if a planet is Earth, Mars, or terrestrial planet, and print out the appropriate respond using the print() method.
 
  
 
-You can also abbreviate the if, else statement similar to the last example of the gravity of Earth and Venus. You can also click below to view the companion short video on YouTube: {{< youtube x-PB_-zGKiY >}} ![Colab Picture of Python Conditional if](/img/core-python-if.jpg)
+We can also abbreviate the if, else statement similar to the last example of the gravity of Earth and Venus. We can also click below to view the companion short video on YouTube: {{< youtube x-PB_-zGKiY >}} ![Colab Picture of Python Conditional if](/img/core-python-if.jpg)
