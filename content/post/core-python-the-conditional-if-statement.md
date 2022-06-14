@@ -24,4 +24,4 @@ We can see some examples of the if statement and the logical equal and greater t
 
  
 
-We can also abbreviate the if, else statement similar to the last example of the gravity of Earth and Venus. We can also click below to view the companion short video on YouTube: {{< youtube x-PB_-zGKiY >}} ![Colab Picture of Python Conditional if](/img/core-python-if.jpg)
+We can abbreviate the if, else statement similar to the last example of the gravity of Earth and Venus. We can also click below to view the companion short video on YouTube: {{< youtube x-PB_-zGKiY >}} ![Colab Picture of Python Conditional if](/img/core-python-if.jpg)
